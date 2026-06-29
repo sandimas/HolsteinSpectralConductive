@@ -1,0 +1,1 @@
+sbatch -J "DOS" slurm_DOS.sh

@@ -1,0 +1,4 @@
+These are the 3 files used in our SLURM workflow. 
+1_submit.sh submits the jobs
+2_slurm.sh is the job script for our cluster at the University of TN, Knoxville: "ISAAC NG"
+3_holstein.jl is the Julia script which runs SmoQyDQMC

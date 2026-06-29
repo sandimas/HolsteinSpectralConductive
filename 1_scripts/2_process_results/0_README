@@ -1,0 +1,6 @@
+This folder contains four scripts
+1_reduce_footprint.jl:      reduces the total number of files and their storage size from the DQMC output. 
+                            G_k is now just 21 points on high symmetry cuts, sigma is just k=0
+2_gather_measurements.jl:   Gets all non-analytically continued results from the simulations and creates a datafile
+3_gather_DOS_N0.jl:         Combines all info from our DOS AC and get the DOS at N(0) into a datafile
+4_gather_spectral.jl:       Combines all info from our spectral function AC
