@@ -6,7 +6,7 @@
 
 James Neuhaus, Ben Cohen-Stead, Norman Mannella, Steve Johnston
 
-[arXiv:2201.04155](https://arxiv.org/abs/2201.04155)
+[arXiv:CHANGEME](https://arxiv.org/CHANGEME)
 
 ### Abstract
 We study the dynamical properties of the two-dimensional square lattice Holstein Hamiltonian using numerically exact determinant quantum Monte Carlo simulations. In particular, we report systematic calculations of the model’s single-particle spectral function and optical conductivity over a range of phonon energies Ω, electron-phonon coupling strengths, carrier concentrations, and temperatures. In doing so, we map the evolution of the system from a dressed metallic phase to a (bi)polaron liquid/insulator to a charge-density-wave insulator as the carrier concentration is tuned from dilute values to half-filling. We corroborate these results using several equal-time correlation measurements and related proxy quantities reconstructed from time-displaced correlation measurements. This paper is also accompanied by an extensive open data set, covering over 16,640 unique parameter values.
