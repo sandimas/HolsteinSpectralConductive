@@ -1,0 +1,7 @@
+These scripts were run on a SLURM cluster. 
+
+submit_DOS.sh (submit_spectral.sh) creates a job using the slurm_DOS.sh (slurm_spectral.sh) script.
+That uses Julia to run the run_DOS.jl (run_spectral.jl) for AC.
+
+Conductivity AC just uses the run_curr.jl script to run ana_cont. 
+ana_cont is a python package, but it can be run in Julia using the PyCall package.
