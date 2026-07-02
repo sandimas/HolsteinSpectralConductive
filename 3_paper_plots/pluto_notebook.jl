@@ -241,7 +241,6 @@ begin
 	    linewidth = 10.0
 	    hlinewidth = 5.0
 	    bix = 16
-	 #    nix = 20
 	    oix = 1
 		lix = 2
 	    adj1 = 0.1
@@ -2127,7 +2126,7 @@ begin
 	    colsize!(ga, 1, Relative(0.4))
 	    colsize!(ga, 3, Relative(0.4))
 	
-	    save("plots_pdf/plot14_spec_n0.3_o2.0.png", f)
+	    save("plots_png/plot14_spec_n0.3_o2.0.png", f)
 	    save("plots_pdf/plot14_spec_n0.3_o2.0.pdf", f)
 		f
 	end
