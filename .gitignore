@@ -29,8 +29,6 @@ LocalPreferences.toml
 JuliaLocalPreferences.toml
 
 james/
-3_paper_plots/plots_png/
-3_paper_plots/plots_pdf/
 2_data/sigma.jld2
 2_data/spectral_functions.jld2
 2_data/direct_measurements.jld2
