@@ -6,8 +6,8 @@
 
 James Neuhaus, Ben Cohen-Stead, Norman Mannella, Steve Johnston
 
-<!-- [arXiv:2201.04155](https://arxiv.org/abs/2201.04155)
--->
+[arXiv:2201.04155](https://arxiv.org/abs/2201.04155)
+
 ### Abstract
 We study the dynamical properties of the two-dimensional square lattice Holstein Hamiltonian using numerically exact determinant quantum Monte Carlo simulations. In particular, we report systematic calculations of the model’s single-particle spectral function and optical conductivity over a range of phonon energies Ω, electron-phonon coupling strengths, carrier concentrations, and temperatures. In doing so, we map the evolution of the system from a dressed metallic phase to a (bi)polaron liquid/insulator to a charge-density-wave insulator as the carrier concentration is tuned from dilute values to half-filling. We corroborate these results using several equal-time correlation measurements and related proxy quantities reconstructed from time-displaced correlation measurements. This paper is also accompanied by an extensive open data set, covering over 16,640 unique parameter values.
 
@@ -20,6 +20,8 @@ The data in this project was generated via determinant quantum Monte Carlo (QMC)
 * [SmoQyDQMC.jl: A Julia implementaion of the differential evolution for analytic continuation algorithm](https://github.com/SmoQySuite/SmoQyDQMC.jl.git)
 * [SmoQyDEAC.jl: A Julia implementaion of the differential evolution for analytic continuation algorithm](https://github.com/SmoQySuite/SmoQyDEAC.jl.git)
 * [ana_cont: A Python implementaion of the Maximum Entropy (MaxEnt) analytic continuation method](https://github.com/josefkaufmann/ana_cont)
+
+### Repository Structure
 
 
 ### Support
