@@ -35,17 +35,82 @@ We thank M. Berciu and R. T. Scalettar for useful discussions and comments for t
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 02: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot2_cond_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="3_paper_plots/plots_png/plot2_cond_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 03: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot3_spec_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="3_paper_plots/plots_png/plot3_spec_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 04: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot4_cond_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="3_paper_plots/plots_png/plot4_cond_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 05: 
+<img src="3_paper_plots/plots_png/plot5_spec_n0.7_o2.0.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 06: 
+<img src="3_paper_plots/plots_png/plot6_cond_n0.7_o2.0.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 07: 
+<img src="3_paper_plots/plots_png/plot7_polaron_n0.7.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 08: 
+<img src="3_paper_plots/plots_png/plot8_crossover_375_1.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 09: 
+<img src="3_paper_plots/plots_png/plot9_crossover_375_4.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 10: 
+<img src="3_paper_plots/plots_png/plot10_crossover_375_2.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 11: 
+<img src="3_paper_plots/plots_png/plot11_crossover_375_3.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 12: 
+<img src="3_paper_plots/plots_png/plot12_spec_n0.3_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 13: 
+<img src="3_paper_plots/plots_png/plot13_cond_n0.3_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 14: 
+<img src="3_paper_plots/plots_png/plot14_spec_n0.3_o2.0.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 15: 
+<img src="3_paper_plots/plots_png/plot15_cond_n0.3_o2.0.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 16: 
+<img src="3_paper_plots/plots_png/plot16_mu_vs_n.png" width="600px" style="background-color:white;padding:20px;">
+
+This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+
+#### Figure 17: 
+<img src="3_paper_plots/plots_png/plotA1_finite_size.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
