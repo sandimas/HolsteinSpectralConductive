@@ -30,62 +30,22 @@ We thank M. Berciu and R. T. Scalettar for useful discussions and comments for t
 ### Figures
 
 #### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 02: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot2_cond_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot2_cond_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 03: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot3_spec_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot3_spec_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
 #### Figure 04: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot4_cond_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
-
-This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
-
-#### Figure 01: 
-<img src="https://github.com/sandimas/HolsteinSpectralConductive/3_paper_plots/plots_png/plot1_spec_n1.0_o0.5.png" width="600px" style="background-color:white;padding:20px;">
+<img src="https://github.com/sandimas/HolsteinSpectralConductive/tree/main/3_paper_plots/plots_png/plot4_cond_n0.7_o0.5.png" width="600px" style="background-color:white;padding:20px;">
 
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
