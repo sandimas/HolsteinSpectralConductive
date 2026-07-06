@@ -2,7 +2,9 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2201.04155-B31B1B.svg)](https://arxiv.org/)
 -->
 
-[![DOI](https://zenodo.org/badge/21220735.svg)](https://zenodo.org/badge/latestdoi/21220735)
+[![DOI](https://zenodo.org/badge/1284234857.svg)](https://doi.org/10.5281/zenodo.21221267)
+
+
 
 # A DQMC study of the spectral and conductive properties of the two-dimensional Holstein model
 
@@ -20,6 +22,8 @@ The directory structure is
 * 1_scripts: All the scripts used to run simulations and process the results except generate plots
 * 2_data: The data used to generate plots for the paper
 * 3_paper_plots: Contains the Pluto.jl workbook to create plots for the paper, as well as the plots it generates
+
+
 
 ### Final Data
 The final dataset for all parameters will be published to [10.5281/zenodo.21220924](https://zenodo.org/records/21218773) once all analytic continuation has completed.
