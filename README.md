@@ -2,8 +2,7 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2201.04155-B31B1B.svg)](https://arxiv.org/)
 -->
 
-[![DOI](https://zenodo.org/badge/1284234857.svg)](https://doi.org/10.5281/zenodo.21221267)
-
+[![DOI](https://zenodo.org/badge/21221268.svg)](https://doi.org/10.5281/zenodo.21221268)
 
 
 # A DQMC study of the spectral and conductive properties of the two-dimensional Holstein model
